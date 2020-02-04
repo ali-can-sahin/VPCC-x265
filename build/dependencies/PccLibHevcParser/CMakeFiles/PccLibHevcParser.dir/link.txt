@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libPccLibHevcParser.a  CMakeFiles/PccLibHevcParser.dir/source/PCCHevcParser.cpp.o CMakeFiles/PccLibHevcParser.dir/source/TCom3DAsymLUT.cpp.o CMakeFiles/PccLibHevcParser.dir/source/TComRom.cpp.o CMakeFiles/PccLibHevcParser.dir/source/TComSlice.cpp.o CMakeFiles/PccLibHevcParser.dir/source/TDecCAVLC.cpp.o
+/usr/bin/ranlib ../../../lib/libPccLibHevcParser.a

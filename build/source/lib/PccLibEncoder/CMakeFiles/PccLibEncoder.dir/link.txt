@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libPccLibEncoder.a  CMakeFiles/PccLibEncoder.dir/source/PCCBitstreamEncoder.cpp.o CMakeFiles/PccLibEncoder.dir/source/PCCEncoder.cpp.o CMakeFiles/PccLibEncoder.dir/source/PCCEncoderParameters.cpp.o CMakeFiles/PccLibEncoder.dir/source/PCCNormalsGenerator.cpp.o CMakeFiles/PccLibEncoder.dir/source/PCCPatchSegmenter.cpp.o CMakeFiles/PccLibEncoder.dir/source/PCCVideoEncoder.cpp.o
+/usr/bin/ranlib ../../../../lib/libPccLibEncoder.a

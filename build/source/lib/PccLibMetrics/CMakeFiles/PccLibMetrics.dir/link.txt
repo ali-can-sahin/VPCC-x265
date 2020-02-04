@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libPccLibMetrics.a  CMakeFiles/PccLibMetrics.dir/source/PCCChecksum.cpp.o CMakeFiles/PccLibMetrics.dir/source/PCCMetrics.cpp.o CMakeFiles/PccLibMetrics.dir/source/PCCMetricsParameters.cpp.o
+/usr/bin/ranlib ../../../../lib/libPccLibMetrics.a

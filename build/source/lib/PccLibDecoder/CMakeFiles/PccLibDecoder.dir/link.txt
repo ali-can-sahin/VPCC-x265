@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libPccLibDecoder.a  CMakeFiles/PccLibDecoder.dir/source/PCCBitstreamDecoder.cpp.o CMakeFiles/PccLibDecoder.dir/source/PCCDecoder.cpp.o CMakeFiles/PccLibDecoder.dir/source/PCCDecoderParameters.cpp.o CMakeFiles/PccLibDecoder.dir/source/PCCVideoDecoder.cpp.o
+/usr/bin/ranlib ../../../../lib/libPccLibDecoder.a
